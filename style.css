@@ -40,7 +40,7 @@ body {
 }
 
 .card__header p {
-  opacity: 50%;
+  opacity: 70%;
 }
 
 .card__img {
@@ -62,7 +62,7 @@ body {
   font-size: 0.938rem;
   font-weight: 500;
   line-height: 1.4;
-  opacity: 70%;
+  opacity: 80%;
 }
 
 .card--bg-purple {
